@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Expo-Boilerplate",
-    "slug": "expo-boilerplate",
+    "name": "spotify-mobile",
+    "slug": "spotify-mobile",
     "version": "1.0.0",
     "runtimeVersion": "exposdk:49.0.0",
     "assetBundlePatterns": ["**/*"],

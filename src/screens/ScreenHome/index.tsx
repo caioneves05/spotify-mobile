@@ -2,11 +2,11 @@ import { View } from 'react-native';
 
 import { StatusBar } from 'expo-status-bar';
 
-import { Main } from 'components/atoms/Main';
+import { Home } from 'components/organisms/Home';
 
-export const Home = () => (
+export const ScreenHome = () => (
   <View className="flex-1 bg-primary-500">
-    <StatusBar style="light" translucent />
-    <Main />
+    <StatusBar translucent />
+    <Home />
   </View>
 );

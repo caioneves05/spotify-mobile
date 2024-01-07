@@ -1,3 +1,4 @@
+/* eslint-disable perfectionist/sort-objects */
 /** @type {import('tailwindcss').Config} */
 
 module.exports = {
@@ -7,17 +8,10 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          50: '#fef5ee',
-          100: '#fee8d6',
-          200: '#fbcdad',
-          300: '#f8a979',
-          400: '#f5834e',
-          500: '#f1581e',
-          600: '#e23f14',
-          700: '#bc2d12',
-          800: '#952517',
-          900: '#782216',
-          950: '#410e09',
+          100: '#04FB71',
+          200: '#7cfcb5',
+          300: '#029643',
+          400: '#047C3C',
         },
         'white-lilac': {
           50: '#fbfaff',
