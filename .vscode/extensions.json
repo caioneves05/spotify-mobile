@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "andrejunges.handlebars",
+    "yoavbls.pretty-ts-errors",
+    "EditorConfig.EditorConfig",
+  ]
+}
